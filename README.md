@@ -99,7 +99,7 @@ Cette architecture rend le code **modulaire** et **facile à étendre**.
 
 ## Auteur
 
-Créé pour apprendre les bonnes pratiques de développement Python.
+Créé par MrLeMal avec utilisation de copilot pour test.
 
 ## Licence
 
