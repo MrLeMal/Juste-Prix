@@ -1,0 +1,9 @@
+{
+    "game_settings": {
+        "max_attempts": 3,
+        "articles_to_guess": 1
+    },
+    "player_settings": {
+        "player_name": "xav"
+    }
+}

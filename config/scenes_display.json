@@ -1,0 +1,30 @@
+{
+  "menu": {
+    "title": "=== MENU ===",
+    "options": [
+      "1. Jouer",
+      "2. Paramètres",
+      "3. Quitter"
+    ],
+    "prompt": "Votre choix : "
+  },
+  "game": {
+    "title": "=== NOUVELLE PARTIE ===",
+    "prompt": "Proposez un prix : "
+  },
+  "end": {
+    "title": "=== FIN DE PARTIE ===",
+    "options": [
+      "1. Retour au menu",
+      "2. Rejouer avec un nouvel article",
+      "3. Quitter"
+    ],
+    "prompt": "Votre choix : "
+  },
+  "settings": {
+    "title": "=== PARAMÈTRES ===",
+    "prompt_attempts": "Entrez le nombre maximum d'essais : ",
+    "prompt_articles": "Entrez le nombre d'articles à deviner : ",
+    "prompt_name": "Entrez le pseudo du joueur : "
+  }
+}

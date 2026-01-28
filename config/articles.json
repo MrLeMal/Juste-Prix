@@ -1,0 +1,12 @@
+[
+  {"nom": "Voiture", "prix": 18500},
+  {"nom": "Canapé", "prix": 1200},
+  {"nom": "Lampe design", "prix": 150},
+  {"nom": "Table basse", "prix": 350},
+  {"nom": "Télévision", "prix": 800},
+  {"nom": "Montre de luxe", "prix": 4500},
+  {"nom": "Vélo électrique", "prix": 2200},
+  {"nom": "Aspirateur robot", "prix": 400},
+  {"nom": "Tableau moderne", "prix": 950},
+  {"nom": "Chaise de bureau", "prix": 300}
+]
